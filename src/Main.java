@@ -50,7 +50,6 @@ public class Main {
         } else if (deliveryDistance > 60 && deliveryDistance < 100) {
             System.out.println("Доставка займет 3 дня");
         }
-
     }
     public static void task5 () {
         int monthNumber = 13;
